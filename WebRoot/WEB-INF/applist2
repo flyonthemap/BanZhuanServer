@@ -1,0 +1,105 @@
+{
+    "code": 0,
+    "task": [
+            {
+        "id": 1580615,
+        "name": "人人",
+        "packageName": "com.renren.mobile.android",
+        "iconUrl": "app/com.renren.mobile.android/icon.jpg",
+        "reward": 2000,
+        "size": 21803987,
+        "downloadUrl": "app/com.renren.mobile.android/com.renren.mobile.android.apk",
+        "des": "2005-2014 你的校园一直在这儿。中国最大的实名制SNS网络平台，大学生"
+    },
+    {
+        "id": 1540629,
+        "name": "掌上营业厅",
+        "packageName": "com.ct.client",
+        "iconUrl": "app/com.ct.client/icon.jpg",
+        "reward": 2000,
+        "size": 4794202,
+        "downloadUrl": "app/com.ct.client/com.ct.client.apk",
+        "des": "中国电信掌上营业厅是中国电信集团【官方】唯一指定服务全国电信用户的自助服务客户端"
+    },
+    {
+        "id": 1619732,
+        "name": "百度输入法",
+        "packageName": "com.baidu.input",
+        "iconUrl": "app/com.baidu.input/icon.jpg",
+        "reward": 2000,
+        "size": 9101582,
+        "downloadUrl": "app/com.baidu.input/com.baidu.input.apk",
+        "des": "【主要功能】智能全键：全新独创键盘感应技术！超强纠错功能，智能感应键盘及输错位"
+    },
+    {
+        "id": 1638997,
+        "name": "我查查",
+        "packageName": "com.wochacha",
+        "iconUrl": "app/com.wochacha/icon.jpg",
+        "reward": 2000,
+        "size": 8502896,
+        "downloadUrl": "app/com.wochacha/com.wochacha.apk",
+        "des": "我查查，扫条码，比价格，辨真假！中国爆红的条码扫描比价软件！超2亿用户的终极选"
+    },
+    {
+        "id": 1527542,
+        "name": "唱吧",
+        "packageName": "com.changba",
+        "iconUrl": "app/com.changba/icon.jpg",
+        "reward": 2500,
+        "size": 12309500,
+        "downloadUrl": "app/com.changba/com.changba.apk",
+        "des": "唱吧最时尚的手机KTV国内人气最高的手机K歌社区唱吧 4.9，随时和朋友"
+    },
+    {
+        "id": 1629509,
+        "name": "QQ音乐",
+        "packageName": "com.tencent.qqmusic",
+        "iconUrl": "app/com.tencent.qqmusic/icon.jpg",
+        "reward": 4000,
+        "size": 9450128,
+        "downloadUrl": "app/com.tencent.qqmusic/com.tencent.qqmusic.apk",
+        "des": "Android QQ音乐，从新开始。 【全国最大的正版高品质乐库】：收录百万量级"
+    },
+    {
+        "id": 1559731,
+        "name": "酷我音乐",
+        "packageName": "cn.kuwo.player",
+        "iconUrl": "app/cn.kuwo.player/icon.jpg",
+        "reward": 3500,
+        "size": 9280773,
+        "downloadUrl": "app/cn.kuwo.player/cn.kuwo.player.apk",
+        "des": "【产品简介】酷我音乐2014（音乐播放器）Android版是北京酷我科技有限公"
+    },
+    {
+        "id": 1619825,
+        "name": "搜狐视频",
+        "packageName": "com.sohu.sohuvideo",
+        "iconUrl": "app/com.sohu.sohuvideo/icon.jpg",
+        "reward": 2500,
+        "size": 10024247,
+        "downloadUrl": "app/com.sohu.sohuvideo/com.sohu.sohuvideo.apk",
+        "des": "搜狐视频-免费高清美剧电影视频播放器随时随地，作球迷领地——6月12日起，一手"
+    },
+    {
+        "id": 1558124,
+        "name": "美图秀秀",
+        "packageName": "com.mt.mtxx.mtxx",
+        "iconUrl": "app/com.mt.mtxx.mtxx/icon.jpg",
+        "reward": 4.5,
+        "size": 35857209,
+        "downloadUrl": "app/com.mt.mtxx.mtxx/com.mt.mtxx.mtxx.apk",
+        "des": "***全新去雾功能，手机也能抵抗雾霾了！***中国最受欢迎的图像处理软件**"
+    },
+    {
+        "id": 1613608,
+        "name": "WiFi钥匙",
+        "packageName": "com.snda.wifilocating",
+        "iconUrl": "app/com.snda.wifilocating/icon.jpg",
+        "reward": 2500,
+        "size": 7759143,
+        "downloadUrl": "app/com.snda.wifilocating/com.snda.wifilocating.apk",
+        "des": "WiFi钥匙是最好用的智能手机WiFi管理工具。所有热点信息基于云端数据库，内置"
+    }
+    ]
+}
